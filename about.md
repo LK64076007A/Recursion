@@ -12,6 +12,6 @@ Recursion is a podcast by two privileged white guys talking about tech, programm
 
 # Attributions
 
-The theme for Driftwood is adapted from [Kiko](http://github.com/gfjaru/Kiko), which is courtesy of [@gfjaru](https://twitter.com/gfjaru) under the MIT License.
+The theme for Recursion is adapted from [Kiko](http://github.com/gfjaru/Kiko), which is courtesy of [@gfjaru](https://twitter.com/gfjaru) under the MIT License.
 
-The [Driftwood](https://github.com/LK64076007A/driftwood) "microcast podcasting platform" is made by Michael, [@LK64076007A ](https://twitter.com/LK64076007A).
+Recursion was created using the [Driftwood](https://github.com/LK64076007A/driftwood) project, a "microcast podcasting platform" made by Michael, [@LK64076007A ](https://twitter.com/LK64076007A).

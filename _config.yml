@@ -1,17 +1,17 @@
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# This file is *NOT* reloaded when you use
+# 'jekyll serve'. 
 
 # Site settings
-baseurl: "/Recursion" # repository name
-url: "http://soitscometothis.net" # Either custom domain or http://GithubUsername.github.io
+baseurl: "/Recursion" 
+url: "http://soitscometothis.net" 
 
 # Podcast Feed Settings
-title:          "Recursion" # name of your podcast
-email:          your-email-address # CHANGE
+title:          "Recursion"
+email:          your-email-address 
 description:    "Two guys talking tech and development." # CHANGE
-subtitle:       "Haven't we done this before?" # CHANGE
+subtitle:       "Haven't we done this before?"
 lang:           en-us
-author:         Wayne & Michael # CHANGE
+author:         Wayne & Michael 
 copyright:      "&#x2117; &amp; &#xA9; 2016"
 
 
@@ -20,7 +20,7 @@ permalink: /:title/
 
 # Build settings
 markdown: kramdown
-timezone: America/New_York #CHANGE
+timezone: America/New_York
 
 # Basic
 

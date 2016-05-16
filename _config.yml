@@ -1,0 +1,53 @@
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+baseurl: "/recursion" # repository name
+url: "http://soitscometothis.net" # Either custom domain or http://GithubUsername.github.io
+
+# Podcast Feed Settings
+title:          "Recursion" # name of your podcast
+email:          your-email-address # CHANGE
+description:    "Two guys talking tech and development." # CHANGE
+subtitle:       "Haven't we done this before?" # CHANGE
+lang:           en-us
+author:         Wayne & Michael # CHANGE
+copyright:      "&#x2117; &amp; &#xA9; 2016"
+
+
+# Outputting
+permalink: /:title/
+
+# Build settings
+markdown: kramdown
+timezone: America/New_York #CHANGE
+
+# Basic
+
+# Navigation
+nav:
+  - name:           "About"
+    href:           "/microcast/about" # CHANGE "microcast" to match your repository
+  - name:           "Feed"
+    href:           "/microcast/podcast.rss" # CHANGE "microcast" to match your repository
+  - name:           "iTunes"
+    href:           "https://itunes.apple.com/us/podcast/driftwood/id1080157963" #CHANGE
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"

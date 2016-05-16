@@ -2,7 +2,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-baseurl: "/recursion" # repository name
+baseurl: "/Recursion" # repository name
 url: "http://soitscometothis.net" # Either custom domain or http://GithubUsername.github.io
 
 # Podcast Feed Settings

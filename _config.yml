@@ -2,7 +2,7 @@
 # 'jekyll serve'. 
 
 # Site settings
-baseurl: "/Recursion" 
+baseurl: "/recursion" 
 url: "http://soitscometothis.net" 
 
 # Podcast Feed Settings
@@ -27,9 +27,9 @@ timezone: America/New_York
 # Navigation
 nav:
   - name:           "About"
-    href:           "/Recursion/about"
+    href:           "/recursion/about"
   - name:           "Feed"
-    href:           "/Recursion/podcast.rss"
+    href:           "/recursion/podcast.rss"
   - name:           "iTunes"
     href:           "https://itunes.apple.com/us/podcast/driftwood/id1080157963"
 

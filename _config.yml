@@ -2,7 +2,7 @@
 # 'jekyll serve'. 
 
 # Site settings
-baseurl: "/" 
+baseurl: "" 
 url: "recursionpodcast.net" 
 
 # Podcast Feed Settings

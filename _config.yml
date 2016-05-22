@@ -3,7 +3,7 @@
 
 # Site settings
 baseurl: "" 
-url: "recursionpodcast.net" 
+url: "http://recursionpodcast.net" 
 
 # Podcast Feed Settings
 title:          "Recursion"

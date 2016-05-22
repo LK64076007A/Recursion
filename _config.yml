@@ -27,9 +27,9 @@ timezone: America/New_York
 # Navigation
 nav:
   - name:           "About"
-    href:           "/recursion/about"
+    href:           "/about"
   - name:           "Feed"
-    href:           "/recursion/podcast.rss"
+    href:           "/podcast.rss"
   - name:           "iTunes"
     href:           "https://itunes.apple.com/us/podcast/driftwood/id1080157963"
 

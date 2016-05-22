@@ -2,8 +2,8 @@
 # 'jekyll serve'. 
 
 # Site settings
-baseurl: "/recursion" 
-url: "http://soitscometothis.net" 
+baseurl: "/" 
+url: "recursionpodcast.net" 
 
 # Podcast Feed Settings
 title:          "Recursion"
